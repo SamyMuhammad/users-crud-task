@@ -1,0 +1,1 @@
+A new user created, The ID is {{ $user->id }} and the name is {{ $user->name }}
